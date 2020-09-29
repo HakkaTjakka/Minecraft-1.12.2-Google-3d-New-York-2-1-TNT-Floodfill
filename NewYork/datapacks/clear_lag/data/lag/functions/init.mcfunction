@@ -1,0 +1,1 @@
+say Clear Lag Datapack Installed!

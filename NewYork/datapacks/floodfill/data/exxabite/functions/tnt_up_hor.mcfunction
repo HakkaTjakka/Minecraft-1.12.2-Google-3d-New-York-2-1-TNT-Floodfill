@@ -1,0 +1,19 @@
+#fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace oak_planks
+#fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace glowstone
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace black_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace blue_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace brown_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace cyan_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace gray_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace green_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace light_blue_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace light_gray_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace lime_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace magenta_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace orange_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace pink_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace purple_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace red_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace white_concrete
+fill ~-2 ~ ~-2 ~2 ~ ~2 minecraft:repeating_command_block{Command:"function exxabite:tnt_up_hor",auto:1b} replace yellow_concrete
+setblock ~ ~ ~ minecraft:tnt replace
