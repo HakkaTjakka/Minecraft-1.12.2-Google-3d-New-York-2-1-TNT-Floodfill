@@ -5,3 +5,9 @@ Java 1.12.2 region files.
 Play (functions with recursive command blocks for floodfill) with 1.16.2 or 1.13 or higher. Otherwise adapt functions. 
 See also on that: https://github.com/HakkaTjakka/Minecraft-1.12.2-Den-Hague-More-TNT
 
+DOWNLOAD FROM:
+
+https://drive.google.com/drive/folders/1fqgz1VWDuDWBxnL3R3P3-r-gOgHolPuO
+
+Like: https://www.facebook.com/Minecraft-Worldeditor-110607880303634/ to get the very special Secret Golden Key.
+
