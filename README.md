@@ -11,3 +11,13 @@ https://drive.google.com/drive/folders/1fqgz1VWDuDWBxnL3R3P3-r-gOgHolPuO
 
 Like: https://www.facebook.com/Minecraft-Worldeditor-110607880303634/ to get the very special Secret Golden Key.
 
+
+Minecraft New York Airport scale 2:1 voxelized from Google 3D
+
+https://youtu.be/hYVE8JMfwNM
+
+https://www.youtube.com/channel/UCdmRlIxcrXmkC7puY4s9Jzg
+
+https://drive.google.com/drive/folders/1fqgz1VWDuDWBxnL3R3P3-r-gOgHolPuO
+
+https://youtu.be/NPgE0fLwPa4
