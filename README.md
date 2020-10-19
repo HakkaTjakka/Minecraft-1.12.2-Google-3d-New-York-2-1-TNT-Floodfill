@@ -5,9 +5,21 @@ Java 1.12.2 region files.
 Play (functions with recursive command blocks for floodfill) with 1.16.2 or 1.13 or higher. Otherwise adapt functions. 
 See also on that: https://github.com/HakkaTjakka/Minecraft-1.12.2-Den-Hague-More-TNT
 
-DOWNLOAD FROM:
+!!!!!!! DOWNLOAD (ALSO) (ALREADY COMPLETE) FROM:
+!!!!!!! DOWNLOAD (ALSO) (ALREADY COMPLETE) FROM:
+!!!!!!! DOWNLOAD (ALSO) (ALREADY COMPLETE) FROM:
 
 https://drive.google.com/drive/folders/1fqgz1VWDuDWBxnL3R3P3-r-gOgHolPuO
+
+ALSO (CONVERTED) 1.16.2 VERSION:
+
+https://drive.google.com/drive/folders/1gQhUhu48jZ_CDzM8WrtTCgrTDpI6MEfk
+
+Build The Earth 121 (BTE) PROJECTION (SCALE 1:1) CUBIC CHUNKS 1.12.2 FORMAT:
+
+https://drive.google.com/drive/folders/1CdjWLl-Vu7fSCTRzDCPlcCCMGYuK5j-Y
+
+More worlds:
 
 https://drive.google.com/drive/folders/1RuIClj5k9hI7i3NJv5cLOhdohfn4S9tR
 
