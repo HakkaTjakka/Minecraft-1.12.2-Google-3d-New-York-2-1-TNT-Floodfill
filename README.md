@@ -1,3 +1,5 @@
+Upload ready. Finished.
+
 # Minecraft-1.12.2-Google-3d-New-York-2-1-TNT-Floodfill
 Minecraft world. Google 3d voxelized to Minecraft 1.12.2 scale 2:1 Filled with TNT plus recursive command block floodfill
 
