@@ -3,8 +3,11 @@ Upload ready. Finished.
 # Minecraft-1.12.2-Google-3d-New-York-2-1-TNT-Floodfill
 Minecraft world. Google 3d voxelized to Minecraft 1.12.2 scale 2:1 Filled with TNT plus recursive command block floodfill
 
-[![Demo CountPages alpha](https://github.com/HakkaTjakka/Minecraft-1.12.2-Google-3d-New-York-2-1-TNT-Floodfill/blob/main/2020-10-17_13.37.58.png)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo CountPages alpha](https://img.youtube.com/vi/R1ZZPfQ5CzA/maxresdefault.jpg)](https://www.youtube.com/watch?v=R1ZZPfQ5CzA)
 
+https://github.com/HakkaTjakka/Minecraft-1.12.2-Google-3d-New-York-2-1-TNT-Floodfill/blob/main/2020-10-17_13.37.58.png
+https://img.youtube.com/vi/R1ZZPfQ5CzA/maxresdefault.jpg
+https://www.youtube.com/watch?v=R1ZZPfQ5CzA
 
 Java 1.12.2 region files.
 Play (functions with recursive command blocks for floodfill) with 1.16.2 or 1.13 or higher. Otherwise adapt functions. 
